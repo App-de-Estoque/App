@@ -1,2 +1,3 @@
-# logos-e-etc
-Conteúdo visual que será utilizado no app
+# Organizer
+
+O Organizer é um aplicativo para controle de estoque, desenvolvido para facilitar o gerenciamento de objetos e produtos.
